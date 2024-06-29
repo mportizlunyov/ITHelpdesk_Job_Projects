@@ -1,0 +1,3 @@
+== 0.0.1 -> 0.0.3 ==
+ - Added divisors for better readabiity relative to other items on a terminal
+ - Reformatted view for UNIX (Linux & MacOS) script

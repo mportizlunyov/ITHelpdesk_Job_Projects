@@ -1,0 +1,13 @@
+rem DISKPART /S diskpartScript.txt
+list volume
+
+rem Typically selects C: drive
+select disk 0
+
+rem Typically selects first, 500MB partition
+select partition 1
+
+rem Format to FAT32
+format fs=FAT32
+list volume
+
