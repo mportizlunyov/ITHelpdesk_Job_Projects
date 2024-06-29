@@ -8,3 +8,5 @@ IT Helpdesk Specialist at the University of Wisconsin-Madison Department of Chem
 All of these are under the UW-Madison Apache Software License.
 
 To see the original projects in the official IT Chem Help Desk GitLab, please visit [https://git.doit.wisc.edu/chemistryithelpdesk](https://git.doit.wisc.edu/chemistryithelpdesk)
+
+If you are internal (have a *wisc.edu* email address), you can see the internal version of these projects.
