@@ -5,7 +5,7 @@
 Hello! This is a GitHub repository containing all of scripts and programs that I developed during my time as an
 IT Helpdesk Specialist at the University of Wisconsin-Madison Department of Chemistry.
 
-These are real, reliable scripts that have been used in the field, so feel free to use or fork them!
+These are real, reliable scripts that have been used on the job by the Helpdesk, so feel free to use or fork them!
 
 All of these are under the UW-Madison Apache Software License.
 
