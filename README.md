@@ -9,4 +9,4 @@ These are real, reliable scripts that have been used on the job by the Helpdesk,
 
 To see the original projects in the official IT Chem Help Desk GitLab, please visit [https://git.doit.wisc.edu/chemistryithelpdesk](https://git.doit.wisc.edu/chemistryithelpdesk)
 
-If you are internal (have a *wisc.edu* email address), you can see the internal version of these projects.
+If you are internal (have a *wisc.edu* email address), you can see the internal versions of these projects, plus others that have been developed by other members of the helpdesk.
